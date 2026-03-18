@@ -1,0 +1,16 @@
+# Environnement virtuel (nom exact de ton dossier)
+venv_brain/
+venv/
+.env
+
+# Données
+mri_dataset_brain_cancer_oc/
+dataset/
+*.jpg
+*.png
+*.jpeg
+
+# Notebooks checkpoints et divers
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
